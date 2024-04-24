@@ -1,0 +1,31 @@
+{
+  "name": "uniremote",
+  "version": "1.0.0",
+  "description": "A universal remote made to dominate the world",
+  "main": "routes/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vortex73/uniremote.git"
+  },
+  "keywords": [
+    "remote"
+  ],
+  "author": "vortex",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/vortex73/uniremote/issues"
+  },
+  "homepage": "https://github.com/vortex73/uniremote#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "bootstrap": "^5.3.3",
+    "config": "^3.3.11",
+    "cookie-parser": "^1.4.6",
+    "express": "^4.19.2",
+    "jquery": "^3.7.1",
+    "pug": "^3.0.2"
+  }
+}

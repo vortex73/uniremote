@@ -1,0 +1,9 @@
+{
+  "devices":{
+    "tv":{
+      "title": "TV - Samsung",
+      "label": "TV",
+      "device": "SamsungTv"
+    },
+  },
+}
